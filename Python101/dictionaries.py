@@ -17,6 +17,6 @@ my_dict['age'] = '35'
 #         USA
 
 
-del my_dict['age']
-print(my_dict)
+# del my_dict['age']  This will delete age from the list
+# print(my_dict)
 

@@ -10,3 +10,5 @@ s = set(t)
 
 print(s)
 print(type(s))
+# output: {1, 2, 3, 4, 5, 6}
+# <class 'set'>
