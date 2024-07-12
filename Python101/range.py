@@ -1,5 +1,6 @@
+x = 0
 
-# for i in range(5, 6, 10):
-    # print(i)
-
-# read teachable
+if x < 0:
+    pass 
+else:
+    print("x is non-negative")

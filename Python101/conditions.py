@@ -1,22 +1,16 @@
-#number = int(input("Please enter a number: "))
-#x = 5
-#if x > number:
-#    print(x, "is greater than", number)
-#else:
-#    print(x, "is less than", number)
+# number = int(input("Please enter a number: "))
+# x = 5
 
-#name = input("Please enter your name: ")
-#if name == "Abdul" or name == "Ahmad":
-#   print("You are welcome", name)
-#elif name == "Simon":
-#   print("You are banned", name)
-#else:
-#    print("You are not allowed!")
+# if x > number:
+#     print(x, "is greater than", number)
+# else:
+#     print(x, "is less than", number)
 
 name = input("Please enter your name: ")
 age = input("Enter your age: ")
 
 age_limit = 21
+
 if name == "Abdul" and float(age) >= age_limit:
     print("You're welcome to drink", name)
 
