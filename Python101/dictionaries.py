@@ -9,9 +9,9 @@ my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
 del my_dict['age']
 
 dictionary = {0: 'one', 1: 'two', 2: 'three'}
-
-value = 0
-for x in range(3):
-    print(dictionary[x])
+print(dictionary[0])
+# value = 0
+# for x in range(3):
+#     print(dictionary[x])
 
 # print(value)
